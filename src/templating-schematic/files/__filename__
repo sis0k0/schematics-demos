@@ -1,0 +1,5 @@
+<% if (breed == 'Cocker Spaniel') { %>
+    <%= breed %>s are awesome!
+<% } else { %>
+    meh.
+<% } %>

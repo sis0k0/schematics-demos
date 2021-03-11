@@ -4,6 +4,26 @@
     "my-collection": {
       "description": "A blank schematic.",
       "factory": "./my-collection/index#myCollection"
+    },
+    "say-hi": {
+      "description": "A blank schematic.",
+      "factory": "./say-hi/index#sayHi"
+    },
+    "templating-schematic": {
+      "description": "A blank schematic.",
+      "factory": "./templating-schematic/index#templatingSchematic"
+    },
+    "creation": {
+      "description": "A blank schematic.",
+      "factory": "./creation/index#creation"
+    },
+    "renaming": {
+      "description": "A blank schematic.",
+      "factory": "./renaming/index#renaming"
+    },
+    "composition": {
+      "description": "A blank schematic.",
+      "factory": "./composition/index#composition"
     }
   }
 }
