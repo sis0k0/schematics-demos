@@ -24,6 +24,10 @@
     "composition": {
       "description": "A blank schematic.",
       "factory": "./composition/index#composition"
+    },
+    "clarity-layout": {
+      "description": "A blank schematic.",
+      "factory": "./clarity-layout/index#clarityLayout"
     }
   }
 }
